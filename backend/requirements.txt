@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+numpy
+nltk
+python-jose
+passlib
+python-multipart
